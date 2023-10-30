@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+scikit-learn
+scipy
+dataclasses
+catboost
+xgboost
+lightgbm
+dill
+ipyleaflet
+pystac
+pystac_client
+odc.stac
+planetary_computer
+-e .
