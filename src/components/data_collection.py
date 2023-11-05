@@ -28,7 +28,7 @@ from pystac_client import Client
 from pystac.extensions.eo import EOExtension as eo
 from odc.stac import stac_load
 import planetary_computer as pc
-pc.settings.set_subscription_key('ab0b02101f9d4746a2b082e8135b18bf')
+pc.settings.set_subscription_key('****************')
 
 # Others
 import requests
