@@ -1,6 +1,8 @@
 pandas
 numpy
 seaborn
+tqdm
+matplotlib
 scikit-learn
 scipy
 dataclasses
